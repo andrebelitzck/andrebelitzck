@@ -8,7 +8,6 @@ I build smart, scalable software solutions focused on process automation, financ
 
 ### 🚀 Featured Projects
 
-* *🤖 Maya AI Assistant* — Local multi-agent AI assistant powered by Python, Ollama, and agentic frameworks for task and voice automation.
 * *📊 Radar Financeiro* — Personal and business financial management desktop application built with Python, SQLite, and modern GUI frameworks.
 * *💬 ZAP Engine* — Automated WhatsApp CRM and intelligent response engine designed for commercial operations and customer service.
 
